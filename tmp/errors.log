@@ -1,0 +1,48 @@
+[2020-12-30 07:51:35] Текст ошибки: Нет соединения с БД | Файл: D:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php | Строка: 14
+=================
+[2020-12-30 07:53:42] Текст ошибки: Failed to authenticate on SMTP server with username "testishop2@ukr.net" using 2 possible authenticators | Файл: D:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\Esmtp\AuthHandler.php | Строка: 181
+=================
+[2020-12-30 09:20:05] Текст ошибки: Метод app\controllers\CartController::indexAction не найден | Файл: D:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-12-30 09:25:37] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v5sm7161133ljj.135 - gsmtp
+" | Файл: D:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2020-12-30 09:28:19] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials f132sm5830542lfd.252 - gsmtp
+" | Файл: D:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2020-12-30 09:43:22] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a8sm5825301lfj.65 - gsmtp
+" | Файл: D:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2020-12-30 09:58:12] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials t14sm7177566ljg.48 - gsmtp
+" | Файл: D:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2020-12-30 10:00:47] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials y4sm5849893lfl.179 - gsmtp
+" | Файл: D:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2020-12-30 10:10:10] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials c10sm5828889lfh.258 - gsmtp
+" | Файл: D:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2020-12-30 10:21:48] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials t4sm5907354lff.260 - gsmtp
+" | Файл: D:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2020-12-30 10:25:22] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials j7sm5819968lfe.165 - gsmtp
+" | Файл: D:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2020-12-30 10:27:01] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials y9sm7115049ljm.94 - gsmtp
+" | Файл: D:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2020-12-30 10:42:46] Текст ошибки: Нет соединения с БД | Файл: D:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php | Строка: 14
+=================
+[2020-12-30 10:42:53] Текст ошибки: Нет соединения с БД | Файл: D:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php | Строка: 14
+=================
+[2020-12-30 10:43:05] Текст ошибки: Нет соединения с БД | Файл: D:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Db.php | Строка: 14
+=================
